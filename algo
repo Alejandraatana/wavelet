@@ -1,0 +1,61 @@
+          when 36 =>
+            if num<=1 then
+               contador<=0;
+               num<=num+1;
+            elsif num<11 then
+               contador<=238+num;
+               num<=num+1;
+            else
+               contador<=238+num;
+               num<=0;
+               estado<=estado+1; 
+            end if;
+          when 37 =>
+            if num<=2 then
+               contador<=0;
+               num<=num+1;
+            elsif num<11 then
+               contador<=237+num;
+               num<=num+1;
+            else
+               contador<=237+num;
+               num<=0;
+               estado<=estado+1; 
+            end if;
+          when 38 =>
+            if num<=3 then
+               contador<=0;
+               num<=num+1;
+            elsif num<11 then
+               contador<=236+num;
+               num<=num+1;
+            else
+               contador<=236+num;
+               num<=0;
+               estado<=estado+1; 
+            end if;
+          when 39 =>
+            if num<=4 then
+               contador<=0;
+               num<=num+1;
+            elsif num<11 then
+               contador<=235+num;
+               num<=num+1;
+            else
+               contador<=235+num;
+               num<=0;
+               estado<=estado+1; 
+            end if;
+          when 40 =>
+            if num<=5 then
+               contador<=0;
+               num<=num+1;
+            elsif num<11 then
+               contador<=234+num;
+               num<=num+1;
+            else
+               contador<=234+num;
+               num<=0;
+               estado<=estado+1; 
+            end if;
+

@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.89 (w)1999-2018 BSI
+[*] Sun Oct 20 05:26:13 2019
+[*]
+[dumpfile] "/home/aleatana/Documents/pt/wavelet/tb.vcd"
+[dumpfile_mtime] "Sun Oct 20 05:25:41 2019"
+[dumpfile_size] 2288807
+[savefile] "/home/aleatana/Documents/pt/wavelet/ondas.sav"
+[timestart] 0
+[size] 1366 704
+[pos] 0 4
+*-26.014515 1080000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] conta.
+[sst_width] 229
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 174
+@28
+btnclk
+conta.cont141.enable
+@25
+conta.datouthp[39:0]
+conta.datoutlp[39:0]
+[pattern_trace] 1
+[pattern_trace] 0
